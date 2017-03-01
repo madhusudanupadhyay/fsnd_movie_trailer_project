@@ -71,6 +71,8 @@ NEIGHBORS = movie.Movie(
     "https://www.youtube.com/watch?v=kL5c2szf3E4",
     "https://www.movie2k-hd.com/wp-content/uploads/2016/05/1-24.jpg")
 
+# List of movies to display
 MOVIES = [TOP_GUN, LAMBS, CHNCHO, DRAGON, GODFATHER, NEIGHBORS]
 
+# Opening web browser to show movies page
 fresh_tomatoes.open_movies_page(MOVIES)
