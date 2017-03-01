@@ -113,7 +113,7 @@ main_page_content = '''
     <div class="container">
       {movie_tiles}
     </div>
-   <b><u> <marquee>And this is my Website Project. Hope It is a good Initiative</marquee></b></u>
+   <b><u> <marquee>Maddy Movie Trailers</marquee></b></u>
   </body>
 </html>
 '''
