@@ -18,8 +18,8 @@ TOP_GUN = movie.Movie(
     Nick Goose Bradshaw (Edwards) are given the chance to train at the \
     Navy's Fighter Weapons School at Miramar in San Diego.",
     "https://www.youtube.com/watch?v=jqfXXaOisKo",
-    "https://cdn.shopify.com/s/files/1/0580/0965/products/\
-    72dpi_Marko_Manev-Top_Gun_2_1024x1024.jpg?v=1415994790")
+    "https://cdn.shopify.com/s/files/1/0580/0965/products/72dpi_Marko_Manev-Top_Gun_2_1024x1024.jpg"
+)
 
 LAMBS = movie.Movie(
     "Silence Of The Lambs",
@@ -34,16 +34,15 @@ LAMBS = movie.Movie(
     advice of the imprisoned Dr. Lecter to apprehend another serial \
     killer, known only as Buffalo Bill",
     "https://www.youtube.com/watch?v=QU8jKn7sMwU",
-    "https://upload.wikimedia.org/wikipedia/en/8/86/\
-    The_Silence_of_the_Lambs_poster.jpg")
+    "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg"
+)
 
 CHNCHO = movie.Movie(
     "Chee and chong",
     "Movie about two friends on a journey with weed",
     "https://www.youtube.com/watch?v=CWxgfTMLtc0",
-    "https://images-na.ssl-images-amazon.com/images/\
-    M/MV5BNDAzMDQzODcxOF5BMl5BanBnXkFtZTcwMDE2Nzk0MQ@@.\
-    _V1_UY268_CR4,0,182,268_AL_.jpg")
+    "https://s-media-cache-ak0.pinimg.com/736x/19/a7/26/19a726ab9bf06d65aaf12e04ece2fe5e.jpg"
+)
 
 DRAGON = movie.Movie(
     "How To Train Your Dragon",
@@ -51,17 +50,17 @@ DRAGON = movie.Movie(
     kill. He decides to call him Toothless. They join forces to put an \
     end to the terror that wreaks havoc in their respective worlds.",
     "https://www.youtube.com/watch?v=I-NDz9Z3qXg",
-    "https://upload.wikimedia.org/wikipedia/en/9/99/\
-    How_to_Train_Your_Dragon_Poster.jpg")
+    "https://upload.wikimedia.org/wikipedia/en/9/99/How_to_Train_Your_Dragon_Poster.jpg"
+)
 
 GODFATHER = movie.Movie(
-    "The godfather",
+    "The Godfather",
     "Don Vito Corleone, head of a mafia family, decides to hand over \
     his empire to his youngest son Michael. However, his decision \
     unintentionally puts the lives of his loved ones in grave danger.",
     "https://www.youtube.com/watch?v=sY1S34973zA",
-    "https://www.mugbug.co.uk/media/products/500/\
-    hmb.the_godfather.coaster.jpg")
+    "https://www.mugbug.co.uk/media/products/500/hmb.the_godfather.coaster.jpg"
+)
 
 NEIGHBORS = movie.Movie(
     "Neighbors",
