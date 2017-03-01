@@ -10,6 +10,7 @@ class Movie(object):
 
     def __init__(self, movie_title, movie_storyline,
                  movie_youtubeurl, movie_image):
+        """ Assign supplied parameters to self instance """
         self.title = movie_title
         self.storyline = movie_storyline
         self.trailer_youtube_url = movie_youtubeurl

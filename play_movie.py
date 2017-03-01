@@ -4,6 +4,7 @@ Movie instances
 import movie
 import fresh_tomatoes
 
+# Movie model for Top Gun
 TOP_GUN = movie.Movie(
     "Top Gun",
     "Top Gun is a 1986 American romantic military action drama film directed \
@@ -21,6 +22,7 @@ TOP_GUN = movie.Movie(
     "https://cdn.shopify.com/s/files/1/0580/0965/products/72dpi_Marko_Manev-Top_Gun_2_1024x1024.jpg"
 )
 
+# Movie model for Silence of the Lambs
 LAMBS = movie.Movie(
     "Silence Of The Lambs",
     "The Silence of the Lambs is a 1991 American horror-thriller film \
@@ -37,13 +39,15 @@ LAMBS = movie.Movie(
     "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg"
 )
 
+# Movie model for Chee and Chong
 CHNCHO = movie.Movie(
-    "Chee and chong",
+    "Chee and Chong",
     "Movie about two friends on a journey with weed",
     "https://www.youtube.com/watch?v=CWxgfTMLtc0",
     "https://s-media-cache-ak0.pinimg.com/736x/19/a7/26/19a726ab9bf06d65aaf12e04ece2fe5e.jpg"
 )
 
+# Movie model How To Train Your Dragon
 DRAGON = movie.Movie(
     "How To Train Your Dragon",
     "A Viking breaks all rules and befriends a dragon he is supposed to \
@@ -53,6 +57,7 @@ DRAGON = movie.Movie(
     "https://upload.wikimedia.org/wikipedia/en/9/99/How_to_Train_Your_Dragon_Poster.jpg"
 )
 
+# Movie model The Godfather
 GODFATHER = movie.Movie(
     "The Godfather",
     "Don Vito Corleone, head of a mafia family, decides to hand over \
@@ -62,6 +67,7 @@ GODFATHER = movie.Movie(
     "https://www.mugbug.co.uk/media/products/500/hmb.the_godfather.coaster.jpg"
 )
 
+# Movie model Neighbors
 NEIGHBORS = movie.Movie(
     "Neighbors",
     "Mac and Kelly's peaceful suburban life is offset by a fraternity \
