@@ -24,6 +24,18 @@ main_page_content = '''
 <!DOCTYPE html>
 <html lang="en">
   <body>
+    <!-- Trailer Video Modal -->
+    <div class="modal" id="trailer">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <a href="#" class="hanging-close" data-dismiss="modal" aria-hidden="true">
+            <img src="https://lh5.ggpht.com/v4-628SilF0HtHuHdu5EzxD7WRqOrrTIDi_MhEG6_qkNtUK5Wg7KPkofp_VJoF7RS2LhxwEFCO1ICHZlc-o_=s0#w=24&h=24"/>
+            </a>
+            <div class="scale-media" id="trailer-video-container">
+            </div>
+        </div>
+        </div>
+    </div>
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
         <header class="mdl-layout__header mdl-layout__header--waterfall portfolio-header">
             <div class="mdl-layout__header-row portfolio-logo-row">
