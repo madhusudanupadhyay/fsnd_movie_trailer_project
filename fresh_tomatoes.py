@@ -14,7 +14,6 @@ main_page_head = '''
     <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.grey-pink.min.css" />
     <link rel="stylesheet" href="assets/styles.css" />
 
-
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
 '''
@@ -66,14 +65,16 @@ main_page_content = '''
             </footer>
         </main>
     </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <script src="assets/main.js"></script>
 </body>
 </html>
 '''
 
 # A single movie entry html template
 movie_tile_content = '''
-<div data-trailer-youtube-id="{trailer_youtube_id}" class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
+<div data-trailer-youtube-id="{trailer_youtube_id}" class="movie-tile mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
     <div class="mdl-card__media">
         <img class="article-image" src="{poster_image_url}" border="0" alt="">
     </div>

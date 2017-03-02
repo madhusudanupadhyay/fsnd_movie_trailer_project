@@ -170,8 +170,7 @@ footer {
 
 #trailer {
     display: none;
-    opacity: 0.8;
-    background: black;
+    background: rgba(0, 0, 0, 0.8);
     height: 100%;
     width: 100%;
     position: absolute;
@@ -185,4 +184,11 @@ footer {
 .modal-dialog {
     width: 640px;
     height: 480px;
+}
+
+.modal-content,
+#trailer-video-container,
+#trailer-video-container>iframe {
+    height: 100%;
+    width: 100%;
 }
