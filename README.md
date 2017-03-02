@@ -1,8 +1,6 @@
 # A Movie website app that covers the trailers of the top upcoming movies
 
-## Checkout the application at: 
-
-[Movie trailer](https://madhusudanupadhyay.github.io/fsnd_movie_trailer_project/)
+## Checkout the application at: [Movie trailer](https://madhusudanupadhyay.github.io/fsnd_movie_trailer_project/)
 
 ### About the project
 
