@@ -2,7 +2,7 @@
 
 ## Checkout the application at: 
 
-```https://madhusudanupadhyay.github.io/fsnd_movie_trailer_project/```
+`https://madhusudanupadhyay.github.io/fsnd_movie_trailer_project/`
 
 ### About the project
 
