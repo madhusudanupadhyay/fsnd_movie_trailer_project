@@ -1,7 +1,7 @@
 $(document).on('click', '.movie-tile', function(event) {
     const ytId = $(this).attr('data-trailer-youtube-id');
 
-    const sourceUrl = 'http://www.youtube.com/embed/' +
+    const sourceUrl = 'https://www.youtube.com/embed/' +
         ytId +
         '?autoplay=1&html5=1';
 
