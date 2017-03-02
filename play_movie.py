@@ -9,15 +9,7 @@ TOP_GUN = movie.Movie(
     "Top Gun",
     "Top Gun is a 1986 American romantic military action drama film directed \
     by Tony Scott, and produced by Don Simpson and Jerry Bruckheimer, \
-    in association with Paramount Pictures. The screenplay was written by \
-    Jim Cash and Jack Epps, Jr., and was inspired by an article titled \
-    Top Guns published in California magazine three years earlier. \
-    The film stars Tom Cruise, Kelly McGillis, Val Kilmer, \
-    Anthony Edwards, and Tom Skerritt. Cruise plays Lieutenant \
-    Pete Maverick Mitchell, a young Naval aviator aboard the aircraft \
-    carrier USS Enterprise. He and his Radar Intercept Officer (RIO) \
-    Nick Goose Bradshaw (Edwards) are given the chance to train at the \
-    Navy's Fighter Weapons School at Miramar in San Diego.",
+    in association with Paramount Pictures.",
     "https://www.youtube.com/watch?v=jqfXXaOisKo",
     "https://cdn.shopify.com/s/files/1/0580/0965/products/72dpi_Marko_Manev-Top_Gun_2_1024x1024.jpg"
 )
@@ -27,22 +19,16 @@ LAMBS = movie.Movie(
     "Silence Of The Lambs",
     "The Silence of the Lambs is a 1991 American horror-thriller film \
     directed by Jonathan Demme and starring Jodie Foster, Anthony Hopkins, \
-    and Scott Glenn.[3] Adapted by Ted Tally from the 1988 novel of the same \
-    name by Thomas Harris, his second to feature the character of Dr. \
-    Hannibal Lecter; a brilliant psychiatrist and cannibalistic serial \
-    killer, the film was the second adaptation of a Harris novel featuring \
-    Lecter, preceded by the Michael Mann-directed Manhunter in 1986. \
-    In the film, Clarice Starling, a young U.S. FBI trainee, seeks the \
-    advice of the imprisoned Dr. Lecter to apprehend another serial \
-    killer, known only as Buffalo Bill",
+    and Scott Glenn.",
     "https://www.youtube.com/watch?v=QU8jKn7sMwU",
     "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg"
 )
 
 # Movie model for Chee and Chong
 CHNCHO = movie.Movie(
-    "Chee and Chong",
-    "Movie about two friends on a journey with weed",
+    "Cheech and Chong",
+    "Two stoners unknowingly smuggle a van - made entirely of marijuana - from \
+    Mexico to L.A., with incompetent Sgt. Stedenko on their trail.",
     "https://www.youtube.com/watch?v=CWxgfTMLtc0",
     "https://s-media-cache-ak0.pinimg.com/736x/19/a7/26/19a726ab9bf06d65aaf12e04ece2fe5e.jpg"
 )

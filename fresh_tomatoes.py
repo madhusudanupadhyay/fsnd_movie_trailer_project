@@ -69,7 +69,7 @@ movie_tile_content = '''
         <h2 class="mdl-card__title-text">{movie_title}</h2>
     </div>
     <div class="mdl-card__supporting-text">
-        Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.
+        {storyline}
     </div>
 </div>
 '''
@@ -92,7 +92,8 @@ def create_movie_tiles_content(movies):
         content += movie_tile_content.format(
             movie_title=movie.title,
             poster_image_url=movie.poster_image_url,
-            trailer_youtube_id=trailer_youtube_id
+            trailer_youtube_id=trailer_youtube_id,
+            storyline=movie.storyline
         )
     return content
 
